@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.i("la fn es: ",fn+"");
                 Log.i("hoy es: ",hoy+"");
                 Log.i("la edad es: ",edad+"");
+                Log.i("mensaje","probado");
             }
         });
 
